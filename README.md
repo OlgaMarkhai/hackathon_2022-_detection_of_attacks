@@ -100,9 +100,11 @@ https://new.skillfactory.ru/hackaton
 
 
 ## Структура репозитория:
-
-[Хакатон_Jane_last_version.ipynb]() - ноутбук с EDA, логистической регрессией, CatBoost 
-
+[Хакатон_Jane_last_version.ipynb](https://github.com/OlgaMarkhai/DS-3/blob/main/%D0%A5%D0%B0%D0%BA%D0%B0%D1%82%D0%BE%D0%BD_Jane_last_version%20(1).ipynb) - ноутбук с EDA, логистической регрессией, CatBoost и стекингом
+[attack_detection_nn.ipynb](https://github.com/OlgaMarkhai/DS-3/blob/main/attack_detection_nn.ipynb) - нейронная сеть
+[hackathon-olga_Light_AML.ipynb](https://github.com/OlgaMarkhai/DS-3/blob/main/hackathon-olga_Light_AML.ipynb) - ноутбук с алгоритмом AutoML
+[hackathon_Oleg.ipynb](https://github.com/OlgaMarkhai/DS-3/blob/main/hackathon_Oleg.ipynb) - ноутбук с кластеризацией
+[Хакатон_май_2022_команда_№_10_v1.1.pptx](https://github.com/OlgaMarkhai/DS-3/blob/main/%D0%A5%D0%B0%D0%BA%D0%B0%D1%82%D0%BE%D0%BD_%D0%BC%D0%B0%D0%B9_2022_%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%B0_%E2%84%96_10_v1.1.pptx) - презентация
 ## Выводы:
 Решение первой задачи - задачи классификации на размеченных данных. 
 
